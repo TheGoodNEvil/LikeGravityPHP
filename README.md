@@ -1,2 +1,2 @@
 # LikeGravityPHP
-This is a PHP repository where I display information of my current job.
+This is a Python repository wehere I inform you of my current job function.
